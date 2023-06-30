@@ -38,4 +38,4 @@ You can send me a message on Discord: @zetiti10.
 I also share my projects on the following platforms:
 
 - Instructables: https://www.instructables.com/member/zetiti10/
-- Printables: https://www.printables.com/fr/@LouisL_370638
+- Printables: https://www.printables.com/@zetiti10
