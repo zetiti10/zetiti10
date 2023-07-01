@@ -11,13 +11,13 @@ Although I'm not a professional programmer, I have learned some specific skills 
 Here are some tools I frequently use:
 
 ![Static Badge](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=kde&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/Desktop-KDE_Plasma-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Desktop-KDE_Plasma-informational?style=flat&logo=kde&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=&cpluspluslogoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=coffeescript&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=github&logoColor=white&color=blue)
