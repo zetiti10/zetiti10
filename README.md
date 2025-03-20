@@ -35,7 +35,4 @@ In the past, I created and administrated a Minecraft server until 2023. However,
 
 You can send me a message on Discord: @zetiti10.
 
-I also share my projects on the following platforms:
-
-- Instructables: https://www.instructables.com/member/zetiti10/
-- Printables: https://www.printables.com/@zetiti10
+I also share projects on my blog: https://louis.leculier.com
